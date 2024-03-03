@@ -15,4 +15,5 @@ Character's Actions:<br>
 ManWalk<br>
 ManAttack<br>
 ManIdle<br><br>
-![banner image](https://github.com/MuhammedMustafaAy/CreativeProjectsResource03/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(14).png)
+![banner image](https://github.com/MuhammedMustafaAy/CreativeProjectsResource03/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(14).png)<br>
+![banner image](https://github.com/MuhammedMustafaAy/CreativeProjectsResource03/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(15).png)
